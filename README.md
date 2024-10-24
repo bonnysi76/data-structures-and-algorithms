@@ -1,4 +1,4 @@
-# Data Structures & Algorithms
+#Data Structures & Algorithms
 Programs to practice data structures &amp; algorithms. Includes classroom & non-classroom work.
 
 - **practice-algos-python:** Various algorithms written in Python.
